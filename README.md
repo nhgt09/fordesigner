@@ -114,3 +114,4 @@ You can get more information about Aseprite license in the
 # fordesigner
 # fordesigner
 # fordesigner
+# Aseprite
